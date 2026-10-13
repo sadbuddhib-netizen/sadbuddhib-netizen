@@ -19,9 +19,8 @@
 | Project | What it does | Tools |
 |---|---|---|
 | **[DataPilot](https://github.com/sadbuddhib-netizen/datapilot-analytics)** | Chat with your data in plain English, get auto charts, data-quality checks and a one-click PowerPoint report. Runs locally with no paid API. | Python, Pandas, Streamlit |
-| **Mamata Ecommerce Sales Dashboard** | Interactive dashboard tracking sales, profit and quantity trends. | Power BI |
-| **Netflix Data Analysis Dashboard** | Explores content by genre, country, rating and release year. | Power BI |
-| **France Death Data Analysis** | Cleaned the data and used linear regression to study mortality trends from 2001 to 2008. | Python, Pandas |
+| **[Mamata Ecommerce Sales Dashboard](https://github.com/sadbuddhib-netizen/powerbi-mamataecommerce-dashboard)** | Interactive dashboard tracking sales, profit and quantity trends. | Power BI |
+| **[Netflix Data Analysis Dashboard](https://github.com/sadbuddhib-netizen/Netflix-PowerBI-Dashboard)** | Explores content by genre, country, rating and release year. | Power BI |
 | **[Machine Learning Journey](https://github.com/sadbuddhib-netizen/machine-learning)** | Daily notes and notebooks, from ML basics to EDA and regression. | Python, Jupyter |
 
 ---

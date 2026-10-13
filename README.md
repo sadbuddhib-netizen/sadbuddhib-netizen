@@ -21,7 +21,7 @@
 | **[DataPilot](https://github.com/sadbuddhib-netizen/datapilot-analytics)** | Chat with your data in plain English, get auto charts, data-quality checks and a one-click PowerPoint report. Runs locally with no paid API. | Python, Pandas, Streamlit |
 | **[Mamata Ecommerce Sales Dashboard](https://github.com/sadbuddhib-netizen/powerbi-mamataecommerce-dashboard)** | Interactive dashboard tracking sales, profit and quantity trends. | Power BI |
 | **[Netflix Data Analysis Dashboard](https://github.com/sadbuddhib-netizen/Netflix-PowerBI-Dashboard)** | Explores content by genre, country, rating and release year. | Power BI |
-| **[Machine Learning Journey](https://github.com/sadbuddhib-netizen/machine-learning)** | Daily notes and notebooks, from ML basics to EDA and regression. | Python, Jupyter |
+
 
 ---
 
@@ -38,6 +38,9 @@
 - Write SQL queries to answer business questions
 - Build Power BI dashboards that people can explore
 - Explain findings in simple language
+- can craete business ressearch in just 10 min using al
+- can create analysis of data in 30 min with presentation and storytelling
+- 
 
 ---
 

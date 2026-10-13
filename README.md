@@ -38,7 +38,7 @@
 - Write SQL queries to answer business questions
 - Build Power BI dashboards that people can explore
 - Explain findings in simple language
-- can craete business ressearch in just 10 min using al
+- can create business research in just 10 min using al
 - can create analysis of data in 30 min with presentation and storytelling
 - 
 

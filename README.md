@@ -33,14 +33,7 @@
 
 ---
 
-## 🧰 What I can do for a team
-- Clean messy data and check its quality before analysis
-- Write SQL queries to answer business questions
-- Build Power BI dashboards that people can explore
-- Explain findings in simple language
-- can create business research in just 10 min using al
-- can create analysis of data in 30 min with presentation and storytelling
-- 
+
 
 ---
 
